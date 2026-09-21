@@ -1,0 +1,58 @@
+[
+  {
+    "year": 2000,
+    "field": "boxscore",
+    "total_checked": 2497,
+    "had_data": 2497,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "linescore",
+    "total_checked": 2497,
+    "had_data": 2497,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "playbyplay",
+    "total_checked": 2497,
+    "had_data": 2497,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 30,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 2000,
+    "field": "winprobability",
+    "total_checked": 2497,
+    "had_data": 2462,
+    "pct_available": 98.6
+  }
+]

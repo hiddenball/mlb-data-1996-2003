@@ -1,0 +1,9 @@
+year,field,total_checked,had_data,pct_available
+2000,boxscore,2497,2497,100.0
+2000,draft,1,1,100.0
+2000,linescore,2497,2497,100.0
+2000,playbyplay,2497,2497,100.0
+2000,roster,30,30,100.0
+2000,standings_splits,1,1,100.0
+2000,transactions,1,1,100.0
+2000,winprobability,2497,2462,98.6
