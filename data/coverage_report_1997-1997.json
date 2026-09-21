@@ -1,0 +1,58 @@
+[
+  {
+    "year": 1997,
+    "field": "boxscore",
+    "total_checked": 2302,
+    "had_data": 2302,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1997,
+    "field": "draft",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1997,
+    "field": "linescore",
+    "total_checked": 2302,
+    "had_data": 2302,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1997,
+    "field": "playbyplay",
+    "total_checked": 2302,
+    "had_data": 2302,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1997,
+    "field": "roster",
+    "total_checked": 30,
+    "had_data": 28,
+    "pct_available": 93.3
+  },
+  {
+    "year": 1997,
+    "field": "standings_splits",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1997,
+    "field": "transactions",
+    "total_checked": 1,
+    "had_data": 1,
+    "pct_available": 100.0
+  },
+  {
+    "year": 1997,
+    "field": "winprobability",
+    "total_checked": 2302,
+    "had_data": 2302,
+    "pct_available": 100.0
+  }
+]
