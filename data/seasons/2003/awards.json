@@ -1,0 +1,266 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 121347,
+    "teamId": 140,
+    "year": 2003
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 2003
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 136880,
+    "teamId": 141,
+    "year": 2003
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 150378,
+    "teamId": 119,
+    "year": 2003
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 407556,
+    "teamId": 118,
+    "year": 2003
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 425883,
+    "teamId": 146,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121347,
+    "teamId": 140,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 134260,
+    "teamId": 108,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 111214,
+    "teamId": 136,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 136767,
+    "teamId": 133,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119976,
+    "teamId": 136,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 111904,
+    "teamId": 136,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119608,
+    "teamId": 147,
+    "year": 2003
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116338,
+    "teamId": 142,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 116662,
+    "teamId": 144,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 117601,
+    "teamId": 146,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121074,
+    "teamId": 138,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113744,
+    "teamId": 138,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 112903,
+    "teamId": 137,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 112116,
+    "teamId": 146,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115399,
+    "teamId": 144,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118414,
+    "teamId": 138,
+    "year": 2003
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121409,
+    "teamId": 138,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121347,
+    "teamId": 140,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 119482,
+    "teamId": 111,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 111214,
+    "teamId": 136,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 113232,
+    "teamId": 141,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 118365,
+    "teamId": 136,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 110236,
+    "teamId": 108,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120691,
+    "teamId": 147,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120903,
+    "teamId": 111,
+    "year": 2003
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 150484,
+    "teamId": 141,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 121074,
+    "teamId": 138,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 122111,
+    "teamId": 144,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 117919,
+    "teamId": 144,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 123723,
+    "teamId": 120,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115399,
+    "teamId": 144,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 136780,
+    "teamId": 146,
+    "year": 2003
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115732,
+    "teamId": 115,
+    "year": 2003
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 119579,
+    "teamId": 110,
+    "year": 2003
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 112061,
+    "teamId": 120,
+    "year": 2003
+  }
+]

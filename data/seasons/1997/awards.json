@@ -1,0 +1,278 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 115135,
+    "teamId": 136,
+    "year": 1997
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 123833,
+    "teamId": 115,
+    "year": 1997
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 112388,
+    "teamId": 141,
+    "year": 1997
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 118377,
+    "teamId": 120,
+    "year": 1997
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 114596,
+    "teamId": 111,
+    "year": 1997
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 121409,
+    "teamId": 143,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124288,
+    "teamId": 147,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 117197,
+    "teamId": 142,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121358,
+    "teamId": 140,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 113744,
+    "teamId": 108,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 115135,
+    "teamId": 136,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 124326,
+    "teamId": 114,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119608,
+    "teamId": 110,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123744,
+    "teamId": 114,
+    "year": 1997
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 120191,
+    "teamId": 110,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 116569,
+    "teamId": 146,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 110987,
+    "teamId": 117,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 144,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 122497,
+    "teamId": 137,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 111908,
+    "teamId": 135,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123833,
+    "teamId": 115,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 119247,
+    "teamId": 119,
+    "year": 1997
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 120045,
+    "teamId": 121,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 117197,
+    "teamId": 142,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 116798,
+    "teamId": 114,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 118365,
+    "teamId": 136,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121358,
+    "teamId": 140,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 114932,
+    "teamId": 140,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 115135,
+    "teamId": 136,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 124326,
+    "teamId": 114,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 114596,
+    "teamId": 111,
+    "year": 1997
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 118362,
+    "teamId": 147,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110987,
+    "teamId": 117,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110432,
+    "teamId": 117,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 111090,
+    "teamId": 144,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 122477,
+    "teamId": 144,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 123833,
+    "teamId": 115,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 120536,
+    "teamId": 119,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115270,
+    "teamId": 135,
+    "year": 1997
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 112106,
+    "teamId": 115,
+    "year": 1997
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 114361,
+    "teamId": 145,
+    "year": 1997
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 119786,
+    "teamId": 144,
+    "year": 1997
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 117524,
+    "teamId": 119,
+    "year": 1997
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 816676,
+    "teamId": 1541,
+    "year": 1997
+  }
+]

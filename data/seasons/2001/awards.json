@@ -1,0 +1,278 @@
+[
+  {
+    "award": "AL MVP",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "NL MVP",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 2001
+  },
+  {
+    "award": "AL Cy Young",
+    "playerId": 112388,
+    "teamId": 147,
+    "year": 2001
+  },
+  {
+    "award": "NL Cy Young",
+    "playerId": 116615,
+    "teamId": 109,
+    "year": 2001
+  },
+  {
+    "award": "AL Rookie of the Year",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "NL Rookie of the Year",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 137006,
+    "teamId": 142,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 136767,
+    "teamId": 133,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 121358,
+    "teamId": 140,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 111904,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 119608,
+    "teamId": 147,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 123744,
+    "teamId": 114,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 110183,
+    "teamId": 114,
+    "year": 2001
+  },
+  {
+    "award": "AL Gold Glove",
+    "playerId": 116338,
+    "teamId": 142,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 116662,
+    "teamId": 144,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 110385,
+    "teamId": 117,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123726,
+    "teamId": 138,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 118120,
+    "teamId": 144,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 113744,
+    "teamId": 138,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 123833,
+    "teamId": 115,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 111851,
+    "teamId": 120,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 121409,
+    "teamId": 143,
+    "year": 2001
+  },
+  {
+    "award": "NL Gold Glove",
+    "playerId": 115732,
+    "teamId": 115,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 121347,
+    "teamId": 140,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 111214,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 118365,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 400085,
+    "teamId": 136,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 114739,
+    "teamId": 133,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120691,
+    "teamId": 147,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 114932,
+    "teamId": 114,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 120903,
+    "teamId": 111,
+    "year": 2001
+  },
+  {
+    "award": "AL Silver Slugger",
+    "playerId": 136267,
+    "teamId": 108,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 405395,
+    "teamId": 138,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 111188,
+    "teamId": 137,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 116999,
+    "teamId": 137,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 114935,
+    "teamId": 109,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115399,
+    "teamId": 115,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 120536,
+    "teamId": 121,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 110383,
+    "teamId": 137,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 122544,
+    "teamId": 112,
+    "year": 2001
+  },
+  {
+    "award": "NL Silver Slugger",
+    "playerId": 115732,
+    "teamId": 115,
+    "year": 2001
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 118497,
+    "teamId": 134,
+    "year": 2001
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 124448,
+    "teamId": 135,
+    "year": 2001
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 817188,
+    "teamId": 1520,
+    "year": 2001
+  },
+  {
+    "award": "Baseball Hall of Fame",
+    "playerId": 120790,
+    "teamId": 142,
+    "year": 2001
+  }
+]
